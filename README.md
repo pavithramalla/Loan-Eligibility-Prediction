@@ -37,6 +37,6 @@ Loan eligibility prediction helps financial institutions assess whether an appli
 ```bash
 git clone https://github.com/yourusername/loan-eligibility-predictor.git
 cd loan-eligibility-predictor
-##📂 Project Structure
+
 
 
